@@ -33,13 +33,19 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/saikiran-kalluri-603781294)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://saikiran-v1.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-kirankalluri888@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirankalluri888@gmail.com)
+<a href="https://in.linkedin.com/in/saikiran-kalluri-603781294" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://saikiran-v1.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="mailto:kirankalluri888@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-kirankalluri888@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ---
 
 <!-- Optional trophies section -->
-<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiranKalluri268&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
--->
