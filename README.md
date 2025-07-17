@@ -48,4 +48,6 @@
 ---
 
 <!-- Optional trophies section -->
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiranKalluri268&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+--!>
