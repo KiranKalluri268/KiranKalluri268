@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Saikiran Kalluri
+# Hi, I'm Saikiran Kalluri
 
-### 💡 "I believe in *Quality over Quantity*"
-
----
-
-## 🚀 About Me
-
-- 💻 Full-Stack Developer (MERN) & Python Enthusiast  
-- 🔍 Currently exploring the world of **Machine Learning**  
-- 👨‍💼 Open to collaborative projects and freelance opportunities  
-- ✨ Focused on writing clean, scalable, and efficient code  
-- 🎯 Always learning, always building
+### "I believe in *Quality over Quantity*"
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+-  Full-Stack Developer (MERN) & Python Enthusiast  
+-  Currently exploring the world of **Machine Learning**  
+-  Open to collaborative projects and freelance opportunities  
+-  Focused on writing clean, scalable, and efficient code  
+-  Always learning, always building
+
+---
+
+##  Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -25,13 +25,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Saikiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKalluri268&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <a href="https://in.linkedin.com/in/saikiran-kalluri-603781294" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
