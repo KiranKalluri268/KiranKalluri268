@@ -1,53 +1,80 @@
-# Hi, I'm Saikiran Kalluri
+<div align="center">
 
-### "I believe in *Quality over Quantity*"
+# Hey, I'm Saikiran 👋
 
----
+### I build for the web, experiment with AI, and enjoy turning ideas into useful products.
 
-## About Me
+<p align="center">
+  <a href="https://saikirankalluri.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/saikiran-kalluri">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kirankalluri888@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
--  Full-Stack Developer (MERN) & Python Enthusiast  
--  Currently exploring the world of **Machine Learning**  
--  Open to collaborative projects and freelance opportunities  
--  Focused on writing clean, scalable, and efficient code  
--  Always learning, always building
+</div>
 
----
+## A little about me
 
-##  Tech Stack
+```javascript
+const saikiran = {
+  role: "Full-Stack & AI Developer",
+  building: ["web apps", "real-time systems", "AI-powered experiences"],
+  learning: ["applied AI", "cloud architecture"],
+  principle: "Quality over quantity"
+};
+```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- Currently building software and solving real-world engineering problems at **Aude.ai**
+- I like bringing AI into products where it creates genuine value
+- Comfortable moving between interfaces, APIs, databases, and cloud services
+- Always interested in thoughtful collaborations and ambitious ideas
 
----
+## Things I've built
 
-## GitHub Stats
+### ThirdEye AI
 
-![Saikiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKalluri268&show_icons=true&theme=tokyonight)
+A privacy-friendly online classroom that detects engagement in real time, visualizes it for instructors, and answers questions about a session using RAG.
 
----
+`MERN` `TensorFlow.js` `WebRTC` `Python` `RAG`
 
-## Connect With Me
+### 🛡️ CertiSafe
 
-<a href="https://in.linkedin.com/in/saikiran-kalluri-603781294" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+A certificate platform built for my institute—created with a four-person team and used by more than 95 people.
 
-<a href="https://saikiran-v1.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-</a>
+`MERN` `AWS` `DynamoDB` `Cloudinary`
 
-<a href="mailto:kirankalluri888@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-kirankalluri888@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+## My toolbox
 
----
+**Building for the web**
 
-<!-- Optional trophies section -->
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiranKalluri268&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
---!>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data, AI & cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Say hello
+
+If you're working on something interesting—or just want to talk about web development, AI, or a good product idea—[reach out on LinkedIn](https://linkedin.com/in/saikiran-kalluri).
+
+<div align="center">
+
+### Always learning. Always building.
+
+</div>
