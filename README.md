@@ -36,20 +36,6 @@ const saikiran = {
 - Comfortable moving between interfaces, APIs, databases, and cloud services
 - Always interested in thoughtful collaborations and ambitious ideas
 
-## Things I've built
-
-### ThirdEye AI
-
-A privacy-friendly online classroom that detects engagement in real time, visualizes it for instructors, and answers questions about a session using RAG.
-
-`MERN` `TensorFlow.js` `WebRTC` `Python` `RAG`
-
-### CertiSafe
-
-A certificate platform built for my institute—created with a four-person team and used by more than 95 people.
-
-`MERN` `AWS` `DynamoDB` `Cloudinary`
-
 ## My toolbox
 
 **Building for the web**
